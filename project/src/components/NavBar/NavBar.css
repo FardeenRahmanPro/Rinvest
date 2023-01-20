@@ -1,0 +1,10 @@
+.authentication-container {
+    display: flex;
+    align-items: center;
+    padding-right: 20px;
+}
+
+.authentication-text-1 {
+    color: rgba(255, 255, 255, 0.585);
+    padding-right: 7px;
+}
